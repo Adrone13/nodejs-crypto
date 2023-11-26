@@ -1,3 +1,3 @@
 # nodejs-crypto
 
-Small Node.js project with common cryptographic functions reference.
+Cheatsheet for common Node.js cryptographic functions.
